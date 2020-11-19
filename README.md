@@ -1,2 +1,0 @@
-# kolaborasigit
-Penjelasan materi git
